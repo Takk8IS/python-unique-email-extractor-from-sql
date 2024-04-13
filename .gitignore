@@ -152,4 +152,5 @@ cython_debug/
 #.idea/
 
 .gitignore
+.gitattributes
 .DS_Store
