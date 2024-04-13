@@ -11,7 +11,7 @@
 
 # Designed to help you. From AIs to human-beans.
 # Every donation propels us forward.
-# $USDT (TRC-20): nTP6zpvjt2ZNGfWKPevfp65ZrcbKMWSQXDi
+# $USDT (TRC-20): TP6zpvjt2ZNGfWKPevfp65ZrcbKMWSQXDi
 
 import re
 

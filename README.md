@@ -31,6 +31,6 @@ To use the script, follow these steps:
 
 If this script has been helpful for you, consider making a donation to support our work:
 
--   $USDT (TRC-20): nTP6zpvjt2ZNGfWKPevfp65ZrcbKMWSQXDi
+-   $USDT (TRC-20): TP6zpvjt2ZNGfWKPevfp65ZrcbKMWSQXDi
 
 Your donations help us continue developing useful and innovative tools.
